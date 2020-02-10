@@ -17,3 +17,14 @@ In order to be successful the following criteria need to be met:
 3. Must be multiplayer.
 
 Let's commit this and get started.
+
+
+# Work Notes:
+
+February 10, 2020
+9:03 AM 
+Downloaded victorzhou's example code.
+Attempting to get it running.
+
+9:15 AM Example code running.
+9:16 AM Now I will start following tutorial. 
