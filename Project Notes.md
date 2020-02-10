@@ -29,4 +29,6 @@ Attempting to get it running.
 9:15 AM Example code running.
 9:16 AM Now I will start following tutorial.
 10:01 AM I have all of the files and folders in place. Going to try to run npm now.
-10
+10:21 Everything is running on basic code.
+
+10:21 Going to modify the login screen to say Beta-IOGame.
