@@ -27,4 +27,5 @@ Downloaded victorzhou's example code.
 Attempting to get it running.
 
 9:15 AM Example code running.
-9:16 AM Now I will start following tutorial. 
+9:16 AM Now I will start following tutorial.
+10:01 AM I have all of the files and folders in place. Going to try to run npm now.
